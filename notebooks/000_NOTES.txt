@@ -1,0 +1,1 @@
+ao ler o arquivo como csv o tipo da coluna se perde, portanto 02 dowload poder voltar para 01 e os dois 011 e 012 podem ser apagados. o problema acontecia ao se ler a data do arquivo eco
